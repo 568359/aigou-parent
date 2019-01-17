@@ -1,6 +1,7 @@
 package org.yangxin.aigou.query;
 
-import org.yangxin.aigou.util.AjaxResult;
-
+/**
+ * 基础查询
+ */
 public class BaseQuery {
 }
